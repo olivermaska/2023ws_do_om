@@ -7,7 +7,7 @@ The way organizations are led and managed has changed significantly over the dec
  Holacracy is an organizational model that emphasizes transparency, decentralization and self-management. Instead of a traditional hierarchical structure in which power and decision-making authority flow from the top down, holacracy is based on so-called "circles" or "cells". These circles are autonomous units responsible for specific tasks or functions within the organization
 
 Its about working in circles:
-![Alt text](image-24.png)
+![Alt text](image-3.png)
 
  The basic principles of holacracy:
 
@@ -20,6 +20,8 @@ Its about working in circles:
 
 ## Why do we need Holacracy?
 
+![Alt text](image.png)
+
 1) Agility and adaptability: Holacracy enables organizations to adapt quickly to change and respond flexibly to new challenges
 
 2) Transparency: Holacracy prioritizes transparency in decision-making and organizational processes, leading to better communication and understanding.
@@ -28,5 +30,6 @@ Its about working in circles:
 
 4) Employee Engagement: Holacracy allows individuals and teams to self-manage, promoting autonomy, personal responsibility, and engagement.
 
-## How does Holacracy an be applied 
+## How does Holacracy an be applied?
+
  
