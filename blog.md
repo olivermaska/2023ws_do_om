@@ -20,7 +20,7 @@ Its about working in circles:
 
 ## Why do we need Holacracy?
 
-![Alt text](image.png)
+
 
 1) Agility and adaptability: Holacracy enables organizations to adapt quickly to change and respond flexibly to new challenges
 
