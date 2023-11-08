@@ -3,7 +3,7 @@
 ## Introduction
 The way organizations are led and managed has changed significantly over the decades. One of the most innovative approaches that has attracted increasing attention in recent years is holacracy. This blog post will provide you with a comprehensive insight into the world of holacracy, from its fundamentals to its potential benefits and challenges.
  
- ## What is Holacracy
+ ## What is Holacracy?
  Holacracy is an organizational model that emphasizes transparency, decentralization and self-management. Instead of a traditional hierarchical structure in which power and decision-making authority flow from the top down, holacracy is based on so-called "circles" or "cells". These circles are autonomous units responsible for specific tasks or functions within the organization
 
 Its about working in circles:
@@ -19,8 +19,6 @@ Its about working in circles:
 •	Super-Circle: Combine to create a larger circle, known as a "super circle", until the entire organization is represented by one circle.
 
 ## Why do we need Holacracy?
-
-
 
 1) Agility and adaptability: Holacracy enables organizations to adapt quickly to change and respond flexibly to new challenges
 
