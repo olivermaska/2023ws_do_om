@@ -20,8 +20,6 @@ Its about working in circles:
 
 ## Why do we need Holacracy?
 
-![Alt text](image-34.png)
-
 1) Agility and adaptability: Holacracy enables organizations to adapt quickly to change and respond flexibly to new challenges
 
 2) Transparency: Holacracy prioritizes transparency in decision-making and organizational processes, leading to better communication and understanding.
