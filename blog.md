@@ -45,7 +45,7 @@ Its about working in circles:
 Implementing Holacracy requires a structured approach and a significant shift in the way an organization operates. Here are the key steps to implementing Holacracy:
 
 
-![Alt text](image-9.png)
+![Alt text](image-25.png)
 
 
 
