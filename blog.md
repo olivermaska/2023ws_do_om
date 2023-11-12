@@ -20,11 +20,7 @@ Its about working in circles:
 
 ## Why do we need Holacracy?
 
-
-
-
-
-![Alt text](image.png)
+![Alt text](image-12.png)
 
 1) Agility and adaptability: 
 
@@ -74,4 +70,6 @@ Transparency:
 Continuous Improvement: 
 - Use feedback mechanisms to evaluate the effectiveness of the Holacracy system and make adjustments as needed.
 
-### Ressources
+### References 
+
+### Conclusion 
