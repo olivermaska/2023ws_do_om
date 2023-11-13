@@ -9,6 +9,12 @@
 
 (Brian J. Robertson, Author and Holacracy Developer)
 ---
+## What is Holacracy?
+
+"An organizational framework that aims to make companies more agile by distributing authorities and decision-making processes throughout an organization." 
+
+(Oliver Maska)
+---
 ## Structure of Holacracy
 ![Alt text](image-3.png)
 ---

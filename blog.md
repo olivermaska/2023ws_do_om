@@ -4,6 +4,12 @@ by Oliver Maska, 15/11/2023
 The way organizations are led and managed has changed significantly over the decades. One of the most innovative approaches that has attracted increasing attention in recent years is holacracy. This blog post will provide you with a comprehensive insight into the world of holacracy, from its fundamentals to its potential benefits and how it can be implemented.
  
  ## What is Holacracy?
+ 
+ "Holacracy is a social technology for governing an organization and arranging its collective efforts."
+
+
+(Brian J. Robertson, Author and Holacracy Developer)
+ 
  Holacracy is an organizational model that emphasizes transparency, decentralization and self-management. Instead of a traditional hierarchical structure in which power and decision-making authority flow from the top down, holacracy is based on so-called "circles". These circles are autonomous units responsible for specific tasks or functions within the organization
 
 Its about working in circles:
@@ -38,13 +44,13 @@ Super-Circle:
 
 - Holacracy promotes transparency in decision-making processes. Roles, responsibilities, and decision-making authority are clearly defined, reducing ambiguity and fostering a more open organizational culture
 
-3) Reduce hierarchy:
+3) Employee Engagement: 
+
+- Holacracy empowers individuals by providing them with clear roles and responsibilities. This reduces the need for micromanagement and allows employees to take ownership of their work, fostering a sense of autonomy and accountability
+
+4) Reduce hierarchy:
 
 - Traditional hierarchical organizations often have numerous management layers, leading to bureaucracy and slower decision-making processes. Holacracy aims to eliminate unnecessary bureaucracy by removing layers of hierarchy. This can result in a leaner, more efficient organization with fewer administrative barriers to innovation and collaboration.
-
-4) Employee Engagement: 
-
-- Holacracy empowers individuals by providing them with clear roles and responsibilities. This reduces the need for micromanagement and allows employees to take ownership of their work, fostering a sense of autonomy and accountability.
 
 ## How does Holacracy can be applied?
 
@@ -77,7 +83,3 @@ Transparency:
 
 Continuous Improvement: 
 - Use feedback mechanisms to evaluate the effectiveness of the Holacracy system and make adjustments as needed.
-
-### References 
-
-### Conclusion 
