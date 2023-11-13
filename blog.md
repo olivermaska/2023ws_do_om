@@ -4,19 +4,27 @@ by Oliver Maska, 15/11/2023
 The way organizations are led and managed has changed significantly over the decades. One of the most innovative approaches that has attracted increasing attention in recent years is holacracy. This blog post will provide you with a comprehensive insight into the world of holacracy, from its fundamentals to its potential benefits and how it can be implemented.
  
  ## What is Holacracy?
- Holacracy is an organizational model that emphasizes transparency, decentralization and self-management. Instead of a traditional hierarchical structure in which power and decision-making authority flow from the top down, holacracy is based on so-called "circles" or "cells". These circles are autonomous units responsible for specific tasks or functions within the organization
+ Holacracy is an organizational model that emphasizes transparency, decentralization and self-management. Instead of a traditional hierarchical structure in which power and decision-making authority flow from the top down, holacracy is based on so-called "circles". These circles are autonomous units responsible for specific tasks or functions within the organization
 
 Its about working in circles:
-![Alt text](image-3.png)
+![Alt text](image-26.png)
+
 
  The basic principles of holacracy:
 
-•	Roles: In holacracy, each person in the organization defines clear roles and responsibilities to perform. These roles are specific and changeable
+Roles: 
+- In holacracy, each person in the organization defines clear roles and responsibilities to perform. These roles are specific and changeable
  according to the needs of the organization.
+ - Each role has autonomy in making decisions related to its defined responsibilities, contributing to the overall adaptability and agility of the organization
 
-•	Sub-Circles: The organization is divided into different circles, each responsible for specific functions. These circles can organize themselves independently and make decisions within the scope of their responsibilities.
+Sub-Circles:  
+- It represents a more focused or specialized grouping of roles with a specific purpose or function and has its own set of roles and responsibilities but operates within the broader context of the Super Circle's purpose. 
+- It contributes to the overall goals of the organization while maintaining a degree of autonomy
 
-•	Super-Circle: Combine to create a larger circle, known as a "super circle", until the entire organization is represented by one circle.
+Super-Circle: 
+- A Super Circle is a higher-level circle in the holacratic organizational structure. 
+- It's a broader grouping that encompasses other circles within the organization.
+- It is responsible for overseeing and coordinating the activities of its Sub Circles. 
 
 ## Why do we need Holacracy?
 
@@ -24,19 +32,19 @@ Its about working in circles:
 
 1) Agility and adaptability: 
 
-- Holacracy enables organizations to adapt quickly to change and respond flexibly to new challenges.
+- The distributed authority and decision-making structure allow for quicker responses to new information or shifts in the business environment..
 
 2) Transparency: 
 
-- Holacracy prioritizes transparency in decision-making and organizational processes, leading to better communication and understanding
+- Holacracy promotes transparency in decision-making processes. Roles, responsibilities, and decision-making authority are clearly defined, reducing ambiguity and fostering a more open organizational culture
 
 3) Reduce hierarchy:
 
-- Traditional hierarchical organizations often have numerous management layers, leading to bureaucracy and slower decision-making processes. Holacracy, on the other hand, has fewer layers, resulting in a flatter, more efficient structure.
+- Traditional hierarchical organizations often have numerous management layers, leading to bureaucracy and slower decision-making processes. Holacracy aims to eliminate unnecessary bureaucracy by removing layers of hierarchy. This can result in a leaner, more efficient organization with fewer administrative barriers to innovation and collaboration.
 
 4) Employee Engagement: 
 
-- Holacracy allows individuals and teams to self-manage, promoting autonomy, personal responsibility, and engagement.
+- Holacracy empowers individuals by providing them with clear roles and responsibilities. This reduces the need for micromanagement and allows employees to take ownership of their work, fostering a sense of autonomy and accountability.
 
 ## How does Holacracy can be applied?
 

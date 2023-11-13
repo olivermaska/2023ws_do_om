@@ -1,4 +1,4 @@
-## The Future of Organizations - Holacracy
+## The Future of Organizations - Holacracy?
 ---
 ## Quiz Time - What is Holacracy?
 ![Alt text](image-4.png)
