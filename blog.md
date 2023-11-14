@@ -53,7 +53,7 @@ Super-Circle:
 
 Implementing Holacracy requires a structured approach and a significant shift in the way an organization operates. Here are the key steps to implementing Holacracy:
 
-![Alt text](image-25.png)
+![Alt text](image-30.png)
 
 Leadership Commitment: 
 
