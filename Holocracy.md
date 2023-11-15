@@ -16,14 +16,14 @@
 (Oliver Maska)
 ---
 ## Structure of Holacracy
-![Alt text](image-3.png)
+![Circle Structure](image-3.png)
 ---
 ## Why we need Holacracy?
-![Alt text](image-12.png)
+![Advantages of Holacracy](image-12.png)
 
 ---
 ## How Holacracy can be implemented?
-![Alt text](image-24.png)
+![Process of implementing Holacracy](image-35.png)
 
 ---
 ### Thank you!
