@@ -16,7 +16,7 @@
 (Oliver Maska)
 ---
 ## Structure of Holacracy
-![Circle Structure](image-3.png)
+![Structure of Holacracy](image-26.png)
 ---
 ## Why we need Holacracy?
 ![Advantages of Holacracy](image-12.png)
