@@ -14,15 +14,15 @@ It's about working in circles:
 ![Circle Structure](image-26.png)
 
 
- The basic principles of holacracy:
+ The basic principles of Holacracy:
 
 Roles: 
-- In holacracy, each person in the organization defines clear roles and responsibilities to perform. 
+- In Holacracy, each person in the organization defines clear roles and responsibilities to perform. 
 - These roles are specific and changeable according to the needs of the organization.
  
 Sub-Circles:  
-- It represents a more focused or specialized grouping of roles with a specific purpose or function
-- It contributes to the overall goals of the organization while maintaining a degree of autonomy
+- It represents a more focused or specialized grouping of roles with a specific purpose or function.
+- It contributes to the overall goals of the organization while maintaining a degree of autonomy.
 
 Super-Circle: 
 - It is a higher-level circle in the organizational structure. 
@@ -68,7 +68,7 @@ Circle Structure:
 - Define the organizational structure using circles. 
 
 Role Definition: 
-- Define roles, accountability's, and expectations for each position within the organization. 
+- Define roles, accountabilities, and expectations for each position within the organization. 
 - This also includes broader roles related to decision-making and governance.
 
 Transparency: 
